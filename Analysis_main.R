@@ -1,6 +1,6 @@
 
 
-source ("D:/_Programs/R/Analysis_Functions.r")
+source ("Analysis_Functions.r")
 
 #connect and explore data
 A<-data_use(dbname="sample.sqlite")
